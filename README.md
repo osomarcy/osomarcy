@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/sam-marcellus/">Cybersecurity Professional</a><a ></a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Hello World!](https://github.com/joshmadakor1/AD_PS
+
+<h2>Certifications</h2>
+
+
 
 <!--
-**osomarcy/osomarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
